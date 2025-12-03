@@ -5,7 +5,7 @@ Hi there 👋
 I'm Igor — systems-focused developer working with Rust, C/C++, Python, and some Kotlin.
 I build high-performance simulations, real-time engines, and backend systems.
 
-🔧 Tech Stack
+Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
